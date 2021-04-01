@@ -56,3 +56,8 @@ php artisan migrate
 hasMany  || belongsTo
 <!-- Routes -->
 <!-- vistas  resources/viws/DasBoard -->
+
+<!-- realizacion de vistas -->
+
+npm run
+ watch
