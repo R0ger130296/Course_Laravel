@@ -27,3 +27,6 @@ require __DIR__.'/auth.php';
 Route::get('{code}','App\Controllers\UrlController@show');
 Route::post('url','App\Controllers\UrlController@store');
 
+// Route::get('test',function(){
+//     dd(microtime());
+// });
