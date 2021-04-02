@@ -61,3 +61,6 @@ hasMany  || belongsTo
 
 npm run
  watch
+
+
+ <!-- aplicacion MultiIdioma -->
